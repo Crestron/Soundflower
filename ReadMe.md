@@ -1,5 +1,5 @@
 
-# Crestron-specific clone of the Soundflower Audio Driver
+# Crestron-specific fork of the Soundflower Audio Driver
 
 
 LICENSE
