@@ -38,7 +38,7 @@
 #define SAMPLE_RATES_KEY				"SampleRates"
 #define SEPARATE_STREAM_BUFFERS_KEY		"SeparateStreamBuffers"
 #define SEPARATE_INPUT_BUFFERS_KEY		"SeparateInputBuffers"
-#define SoundflowerDevice				com_cycling74_driver_SoundflowerDevice
+#define SoundflowerDevice				com_crestron_driver_soundflowerDevice
 
 #define NUM_CHANS 64
 

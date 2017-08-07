@@ -15,11 +15,11 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.1.0</string>
+	<string>102.1.0</string>
 	<key>CFBundleSignature</key>
 	<string>sFlo</string>
 	<key>CFBundleVersion</key>
-	<string>2.1.0</string>
+	<string>102.1.0</string>
 	<key>IOKitPersonalities</key>
 	<dict>
 		<key>PhantomAudioDriver</key>
@@ -72,7 +72,7 @@
 					<key>BlockSize</key>
 					<integer>8192</integer>
 					<key>Description</key>
-					<string>Soundflower (64ch)</string>
+					<string>Soundflower (ch)</string>
 					<key>Formats</key>
 					<array>
 						<dict>

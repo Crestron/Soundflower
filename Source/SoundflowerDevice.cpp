@@ -65,7 +65,7 @@ bool SoundflowerDevice::initHardware(IOService *provider)
     
     setDeviceName("Soundflower");
     setDeviceShortName("Soundflower");
-    setManufacturerName("ma++ ingalls for Cycling '74");
+    setManufacturerName("Crestron Electronics");
     
     if (!createAudioEngines())
         goto Done;
