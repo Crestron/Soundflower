@@ -34,6 +34,8 @@
     as an input buffer, allowing applications to send audio one another.
 */
 
+//Version Scheme of 102.1.0 is to both distinguish from 2.0b2 while placing the 2 in the version and making it a cleaner build type to allow cleaner versioning if later desired.
+
 #include "SoundflowerDevice.h"
 #include "SoundflowerEngine.h"
 #include <IOKit/audio/IOAudioControl.h>
